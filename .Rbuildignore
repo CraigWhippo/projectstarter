@@ -1,2 +1,3 @@
-^projectstarter\.Rproj$
+^.*\.Rproj$
 ^\.Rproj\.user$
+notebook*
