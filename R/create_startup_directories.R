@@ -1,4 +1,7 @@
-#This Function creates directores
+#' Create New Directories
+#'
+
+
 create_directory_structure <- function() {
   # Use the current working directory as the root
   root_path <- getwd()
