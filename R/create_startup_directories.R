@@ -27,3 +27,5 @@ create_directory_structure <- function() {
   print(list.files(root_path, recursive = TRUE))
 }
 
+
+
