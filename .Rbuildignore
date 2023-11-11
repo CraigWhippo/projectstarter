@@ -1,3 +1,3 @@
-^.*\.Rproj$
+^projectstarter\.Rproj$
 ^\.Rproj\.user$
-notebook*
+^LICENSE\.md$
